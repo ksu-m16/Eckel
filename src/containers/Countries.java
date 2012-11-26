@@ -1,5 +1,7 @@
 package containers;
 
+// This is basic class copied from book, not an exercise.
+
 import java.util.AbstractMap;
 import java.util.AbstractSet;
 import java.util.ArrayList;

@@ -18,17 +18,17 @@ public class E3 {
 
 		int n = 10;
 			
-		TreeSet<String> target = new TreeSet<String>();
+		TreeSet<String> ts = new TreeSet<String>();
 		HashSet<String> hs = new HashSet<String>();
 		LinkedHashSet <String> lhs = new LinkedHashSet<String>();
 		
 		for (int i = 0; i < n; i++) {
-			target.addAll(s.headSet("B"));
+			ts.addAll(s.headSet("B"));
 			hs.addAll(s.headSet("B"));
 			lhs.addAll(s.headSet("B"));
 		}
 		
-//		for (String str: target) {
+//		for (String str: ts) {
 //		System.out.println(str);
 //		}
 		

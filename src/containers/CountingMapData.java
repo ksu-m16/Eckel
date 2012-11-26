@@ -5,6 +5,7 @@ import java.util.*;
 
 //containers/CountingMapData5.java
 //TIJ4 Chapter Containers, Exercise 5, page 809
+
 //Modify CountingMapData.java to fully implement the flyweight
 //by adding a custom EntrySet class like the one in Countries.java.
 //See also alternate solution CountingMapData5Alt.java. 

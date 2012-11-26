@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-public class E12 {
+public class E1E2 {
 //	(1) Create a List (try both ArrayList and LinkedList) 
 //	and fill it using Countries. Sort the list and print it,
 //	then apply Collections.shuffle( ) to the list repeatedly, 

@@ -1,5 +1,7 @@
 package containers;
 
+//This is basic class copied from book, not an exercise.
+
 //: net/mindview/util/CountingGenerator.java
 //Simple generator implementations.
 
